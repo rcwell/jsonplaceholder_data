@@ -217,15 +217,15 @@
     "chart_data_1": {
         "labels": ["January", "February", "March", "April", "May", "June", "July"],
         "datasets": [{
-                "name": "DS001",
+                "label": "DS001",
                 "data": [65, 59, 80, 81, 56, 55, 40]
             },
             {
-                "name": "DS002",
+                "label": "DS002",
                 "data": [98, 22, 80, 45, 24, 34, 70]
             },
             {
-                "name": "DS003",
+                "label": "DS003",
                 "data": [56, 33, 78, 23, 56, 78, 90]
             }
         ]
